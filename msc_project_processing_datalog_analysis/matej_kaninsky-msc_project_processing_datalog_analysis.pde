@@ -1,7 +1,5 @@
-/* 
-Author: Matej Kaninsky
-Project: MSc project, Human-Computer Interaction programme, University College London 
-*/
+/*  Author: Matej Kaninsky
+    Project: MSc project, Human-Computer Interaction programme, University College London */
 
 ArrayList<Table> tables = new ArrayList<Table>();
 Table resultsTable; 
