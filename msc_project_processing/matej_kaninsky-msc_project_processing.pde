@@ -1,4 +1,5 @@
-/* Project: MSc project, Human-Computer Interaction programme, University College London
+/* Author: Matej Kaninsky
+   Project: MSc project, Human-Computer Interaction programme, University College London
    Required HW: Arduino Mega 2560, 1366x768 external LCD display */
 
 import processing.serial.*;
